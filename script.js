@@ -25,7 +25,7 @@ let updateTimer;
 const music_list = [
   {
     img: "./meddle.jpeg",
-    name: "Yok Sana Tamam",
+    name: "Echoes",
     artist: "Rody Dünyada",
     music: "./yok-sana-tamam.mp3",
   },
