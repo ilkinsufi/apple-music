@@ -26,20 +26,20 @@ const music_list = [
   {
     img: "./meddle.jpeg",
     name: "Echoes",
-    artist: "Rody Dünyada",
-    music: "./yok-sana-tamam.mp3",
+    artist: "Pink Floyd",
+    music: "./a-pillow.mp3",
   },
   {
     img: "./the-final-cut.jpg",
-    name: "Türkü",
-    artist: "Rody Dünyada",
-    music: "./türkü.mp3",
+    name: "Two Suns In The Sunset",
+    artist: "Pink Floyd",
+    music: "./two/suns.mp3",
   },
   {
     img: "./the-wall.jpg",
-    name: "Raylar",
+    name: "Comfortably Numb",
     artist: "Pink Floyd",
-    music: "./raylar.mp3",
+    music: "./numb.mp3",
   },
 ];
 
