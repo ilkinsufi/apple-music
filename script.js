@@ -33,7 +33,7 @@ const music_list = [
     img: "./the-final-cut.jpg",
     name: "Two Suns In The Sunset",
     artist: "Pink Floyd",
-    music: "./two/suns.mp3",
+    music: "./two-suns.mp3",
   },
   {
     img: "./the-wall.jpg",
